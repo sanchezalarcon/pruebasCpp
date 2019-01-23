@@ -1,44 +1,44 @@
-Wed Jan 23 01:56:40 2019: build-wrapper, version 6.0 (win-x86-64)
-Wed Jan 23 01:56:40 2019: isWow64: 0
-Wed Jan 23 01:56:40 2019: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
-Wed Jan 23 01:56:40 2019: current directory: C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8
-Wed Jan 23 01:56:40 2019: command line received: <make clean all>
-Wed Jan 23 01:56:40 2019: initializing json file
-Wed Jan 23 01:56:40 2019: starting debug cycle
-Wed Jan 23 01:56:40 2019: process created with pid: 11068
-Wed Jan 23 01:56:40 2019: image path name: <C:\cygwin64\bin\make.exe>
-Wed Jan 23 01:56:40 2019: command line: <make clean all>
-Wed Jan 23 01:56:40 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:40 2019: isWow64: 0
-Wed Jan 23 01:56:40 2019: skipping process C:\cygwin64\bin\make.exe with pid: 11068
-Wed Jan 23 01:56:40 2019: process created with pid: 13444
-Wed Jan 23 01:56:40 2019: image path name: <C:\cygwin64\bin\make.exe>
-Wed Jan 23 01:56:40 2019: command line: <make clean all>
-Wed Jan 23 01:56:40 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:40 2019: isWow64: 0
-Wed Jan 23 01:56:40 2019: skipping process C:\cygwin64\bin\make.exe with pid: 13444
-Wed Jan 23 01:56:41 2019: process created with pid: 14016
-Wed Jan 23 01:56:41 2019: image path name: <C:\cygwin64\bin\rm.exe>
-Wed Jan 23 01:56:41 2019: command line: <"C:\cygwin64\bin\rm.exe">
-Wed Jan 23 01:56:41 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:41 2019: isWow64: 0
-Wed Jan 23 01:56:41 2019: skipping process C:\cygwin64\bin\rm.exe with pid: 14016
-Wed Jan 23 01:56:41 2019: process with pid 13444 exit with code: 0 (0x0)
-Wed Jan 23 01:56:41 2019: process with pid 14016 exit with code: 0 (0x0)
-Wed Jan 23 01:56:41 2019: process created with pid: 6540
-Wed Jan 23 01:56:41 2019: image path name: <C:\cygwin64\bin\make.exe>
-Wed Jan 23 01:56:41 2019: command line: <make clean all>
-Wed Jan 23 01:56:41 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:41 2019: isWow64: 0
-Wed Jan 23 01:56:41 2019: skipping process C:\cygwin64\bin\make.exe with pid: 6540
-Wed Jan 23 01:56:41 2019: process created with pid: 13248
-Wed Jan 23 01:56:41 2019: image path name: <C:\cygwin64\bin\g++.exe>
-Wed Jan 23 01:56:41 2019: command line: <"C:\cygwin64\bin\g++.exe">
-Wed Jan 23 01:56:41 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:41 2019: isWow64: 0
-Wed Jan 23 01:56:41 2019: Probing C compiler: C:\cygwin64\bin\g++.exe
-Wed Jan 23 01:56:42 2019: exit code: 0 (0x0)
-Wed Jan 23 01:56:42 2019: stdout:
+Wed Jan 23 02:21:46 2019: build-wrapper, version 6.0 (win-x86-64)
+Wed Jan 23 02:21:46 2019: isWow64: 0
+Wed Jan 23 02:21:46 2019: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Wed Jan 23 02:21:46 2019: current directory: C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8
+Wed Jan 23 02:21:46 2019: command line received: <make clean all>
+Wed Jan 23 02:21:46 2019: initializing json file
+Wed Jan 23 02:21:46 2019: starting debug cycle
+Wed Jan 23 02:21:46 2019: process created with pid: 9224
+Wed Jan 23 02:21:46 2019: image path name: <C:\cygwin64\bin\make.exe>
+Wed Jan 23 02:21:46 2019: command line: <make clean all>
+Wed Jan 23 02:21:46 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:46 2019: isWow64: 0
+Wed Jan 23 02:21:46 2019: skipping process C:\cygwin64\bin\make.exe with pid: 9224
+Wed Jan 23 02:21:46 2019: process created with pid: 14888
+Wed Jan 23 02:21:46 2019: image path name: <C:\cygwin64\bin\make.exe>
+Wed Jan 23 02:21:46 2019: command line: <make clean all>
+Wed Jan 23 02:21:46 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:47 2019: isWow64: 0
+Wed Jan 23 02:21:47 2019: skipping process C:\cygwin64\bin\make.exe with pid: 14888
+Wed Jan 23 02:21:47 2019: process created with pid: 7716
+Wed Jan 23 02:21:47 2019: image path name: <C:\cygwin64\bin\rm.exe>
+Wed Jan 23 02:21:47 2019: command line: <"C:\cygwin64\bin\rm.exe">
+Wed Jan 23 02:21:47 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:47 2019: isWow64: 0
+Wed Jan 23 02:21:47 2019: skipping process C:\cygwin64\bin\rm.exe with pid: 7716
+Wed Jan 23 02:21:47 2019: process with pid 14888 exit with code: 0 (0x0)
+Wed Jan 23 02:21:47 2019: process with pid 7716 exit with code: 0 (0x0)
+Wed Jan 23 02:21:47 2019: process created with pid: 10380
+Wed Jan 23 02:21:47 2019: image path name: <C:\cygwin64\bin\make.exe>
+Wed Jan 23 02:21:47 2019: command line: <make clean all>
+Wed Jan 23 02:21:47 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:47 2019: isWow64: 0
+Wed Jan 23 02:21:47 2019: skipping process C:\cygwin64\bin\make.exe with pid: 10380
+Wed Jan 23 02:21:47 2019: process created with pid: 13292
+Wed Jan 23 02:21:47 2019: image path name: <C:\cygwin64\bin\g++.exe>
+Wed Jan 23 02:21:47 2019: command line: <"C:\cygwin64\bin\g++.exe">
+Wed Jan 23 02:21:47 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:47 2019: isWow64: 0
+Wed Jan 23 02:21:47 2019: Probing C compiler: C:\cygwin64\bin\g++.exe
+Wed Jan 23 02:21:48 2019: exit code: 0 (0x0)
+Wed Jan 23 02:21:48 2019: stdout:
 #define __DBL_MIN_EXP__ (-1021)
 #define __FLT32X_MAX_EXP__ 1024
 #define __UINT_LEAST16_MAX__ 0xffff
@@ -386,7 +386,7 @@ Wed Jan 23 01:56:42 2019: stdout:
 #define __ATOMIC_RELEASE 3
 #define __declspec(x) __attribute__((x))
 
-Wed Jan 23 01:56:42 2019: stderr:
+Wed Jan 23 02:21:48 2019: stderr:
 Using built-in specs.
 COLLECT_GCC=/usr/bin/g++
 Target: x86_64-pc-cygwin
@@ -409,9 +409,9 @@ COMPILER_PATH=/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/:/usr/lib/gcc/x86_64-pc-cygwin
 LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/:/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../x86_64-pc-cygwin/lib/../lib/:/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../x86_64-pc-cygwin/lib/:/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../:/lib/:/usr/lib/
 COLLECT_GCC_OPTIONS='-v' '-dM' '-E' '-P' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
 
-Wed Jan 23 01:56:42 2019: Probing C++ compiler: C:\cygwin64\bin\g++.exe
-Wed Jan 23 01:56:42 2019: exit code: 0 (0x0)
-Wed Jan 23 01:56:42 2019: stdout:
+Wed Jan 23 02:21:48 2019: Probing C++ compiler: C:\cygwin64\bin\g++.exe
+Wed Jan 23 02:21:48 2019: exit code: 0 (0x0)
+Wed Jan 23 02:21:48 2019: stdout:
 #define __DBL_MIN_EXP__ (-1021)
 #define __FLT32X_MAX_EXP__ 1024
 #define __cpp_attributes 200809
@@ -801,7 +801,7 @@ Wed Jan 23 01:56:42 2019: stdout:
 #define __ATOMIC_RELEASE 3
 #define __declspec(x) __attribute__((x))
 
-Wed Jan 23 01:56:42 2019: stderr:
+Wed Jan 23 02:21:48 2019: stderr:
 Using built-in specs.
 COLLECT_GCC=/usr/bin/g++
 Target: x86_64-pc-cygwin
@@ -827,171 +827,171 @@ COMPILER_PATH=/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/:/usr/lib/gcc/x86_64-pc-cygwin
 LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/:/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../x86_64-pc-cygwin/lib/../lib/:/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../x86_64-pc-cygwin/lib/:/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../:/lib/:/usr/lib/
 COLLECT_GCC_OPTIONS='-v' '-dM' '-E' '-P' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
 
-Wed Jan 23 01:56:42 2019: env0: <PATH=C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Perl\site\bin;C:\Perl\bin;C:\Program Files (x86)\MiKTeX 2.8\miktex\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;D:\FING\TSI2\plataforma\apache-maven-3.5.0\bin;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenSSH-Win64;C:\Program Files\nodejs;C:\WINDOWS\System32\OpenSSH;D:\FING\2018-02\Actividad Integradora\sonar-scanner-3.2.0.1227-windows\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\PostgreSQL\11\bin;C:\Program Files\dotnet;C:\Ruby24-x64\bin;C:\Users\Gabriel\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\Gabriel\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Users\Gabriel\.dotnet\tools>
-Wed Jan 23 01:56:42 2019: env1: <SYSTEMDRIVE=C:>
-Wed Jan 23 01:56:42 2019: env2: <SYSTEMROOT=C:\WINDOWS>
-Wed Jan 23 01:56:42 2019: env3: <WINDIR=C:\WINDOWS>
-Wed Jan 23 01:56:42 2019: process with pid 6540 exit with code: 0 (0x0)
-Wed Jan 23 01:56:43 2019: process created with pid: 14564
-Wed Jan 23 01:56:43 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
-Wed Jan 23 01:56:43 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
-Wed Jan 23 01:56:43 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:43 2019: isWow64: 0
-Wed Jan 23 01:56:43 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 14564
-Wed Jan 23 01:56:44 2019: process with pid 14564 exit with code: 0 (0x0)
-Wed Jan 23 01:56:44 2019: process created with pid: 10096
-Wed Jan 23 01:56:44 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
-Wed Jan 23 01:56:44 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
-Wed Jan 23 01:56:44 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:44 2019: isWow64: 0
-Wed Jan 23 01:56:44 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 10096
-Wed Jan 23 01:56:44 2019: process with pid 10096 exit with code: 0 (0x0)
-Wed Jan 23 01:56:44 2019: process created with pid: 8084
-Wed Jan 23 01:56:44 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
-Wed Jan 23 01:56:44 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
-Wed Jan 23 01:56:44 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:44 2019: isWow64: 0
-Wed Jan 23 01:56:44 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 8084
-Wed Jan 23 01:56:47 2019: process with pid 8084 exit with code: 0 (0x0)
-Wed Jan 23 01:56:48 2019: process created with pid: 2700
-Wed Jan 23 01:56:48 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
-Wed Jan 23 01:56:48 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
-Wed Jan 23 01:56:48 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:48 2019: isWow64: 0
-Wed Jan 23 01:56:48 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 2700
-Wed Jan 23 01:56:51 2019: process with pid 2700 exit with code: 0 (0x0)
-Wed Jan 23 01:56:51 2019: process created with pid: 13180
-Wed Jan 23 01:56:51 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
-Wed Jan 23 01:56:51 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
-Wed Jan 23 01:56:51 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:51 2019: isWow64: 0
-Wed Jan 23 01:56:51 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 13180
-Wed Jan 23 01:56:54 2019: process with pid 13180 exit with code: 0 (0x0)
-Wed Jan 23 01:56:54 2019: process created with pid: 10820
-Wed Jan 23 01:56:54 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
-Wed Jan 23 01:56:54 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
-Wed Jan 23 01:56:54 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:54 2019: isWow64: 0
-Wed Jan 23 01:56:54 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 10820
-Wed Jan 23 01:56:56 2019: process with pid 10820 exit with code: 0 (0x0)
-Wed Jan 23 01:56:56 2019: process created with pid: 4824
-Wed Jan 23 01:56:56 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
-Wed Jan 23 01:56:56 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
-Wed Jan 23 01:56:56 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:56 2019: isWow64: 0
-Wed Jan 23 01:56:56 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 4824
-Wed Jan 23 01:56:58 2019: process with pid 4824 exit with code: 0 (0x0)
-Wed Jan 23 01:56:58 2019: process created with pid: 2736
-Wed Jan 23 01:56:58 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
-Wed Jan 23 01:56:58 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
-Wed Jan 23 01:56:58 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:58 2019: isWow64: 0
-Wed Jan 23 01:56:58 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 2736
-Wed Jan 23 01:56:58 2019: process with pid 2736 exit with code: 0 (0x0)
-Wed Jan 23 01:56:58 2019: process created with pid: 8040
-Wed Jan 23 01:56:58 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
-Wed Jan 23 01:56:58 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
-Wed Jan 23 01:56:58 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:56:58 2019: isWow64: 0
-Wed Jan 23 01:56:58 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 8040
-Wed Jan 23 01:57:00 2019: process with pid 8040 exit with code: 0 (0x0)
-Wed Jan 23 01:57:00 2019: process created with pid: 9200
-Wed Jan 23 01:57:00 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
-Wed Jan 23 01:57:00 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
-Wed Jan 23 01:57:00 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:00 2019: isWow64: 0
-Wed Jan 23 01:57:00 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 9200
-Wed Jan 23 01:57:00 2019: process with pid 9200 exit with code: 0 (0x0)
-Wed Jan 23 01:57:00 2019: process created with pid: 5056
-Wed Jan 23 01:57:00 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
-Wed Jan 23 01:57:00 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
-Wed Jan 23 01:57:00 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:00 2019: isWow64: 0
-Wed Jan 23 01:57:00 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 5056
-Wed Jan 23 01:57:02 2019: process with pid 5056 exit with code: 0 (0x0)
-Wed Jan 23 01:57:02 2019: process created with pid: 12440
-Wed Jan 23 01:57:02 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
-Wed Jan 23 01:57:02 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
-Wed Jan 23 01:57:02 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:02 2019: isWow64: 0
-Wed Jan 23 01:57:02 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 12440
-Wed Jan 23 01:57:02 2019: process with pid 12440 exit with code: 0 (0x0)
-Wed Jan 23 01:57:02 2019: process created with pid: 3696
-Wed Jan 23 01:57:02 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
-Wed Jan 23 01:57:02 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
-Wed Jan 23 01:57:02 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:02 2019: isWow64: 0
-Wed Jan 23 01:57:02 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 3696
-Wed Jan 23 01:57:03 2019: process with pid 3696 exit with code: 0 (0x0)
-Wed Jan 23 01:57:03 2019: process created with pid: 12832
-Wed Jan 23 01:57:03 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
-Wed Jan 23 01:57:03 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
-Wed Jan 23 01:57:03 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:03 2019: isWow64: 0
-Wed Jan 23 01:57:03 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 12832
-Wed Jan 23 01:57:04 2019: process with pid 12832 exit with code: 0 (0x0)
-Wed Jan 23 01:57:04 2019: process with pid 13248 exit with code: 0 (0x0)
-Wed Jan 23 01:57:04 2019: process created with pid: 14632
-Wed Jan 23 01:57:04 2019: image path name: <C:\cygwin64\bin\make.exe>
-Wed Jan 23 01:57:04 2019: command line: <make clean all>
-Wed Jan 23 01:57:04 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:04 2019: isWow64: 0
-Wed Jan 23 01:57:04 2019: skipping process C:\cygwin64\bin\make.exe with pid: 14632
-Wed Jan 23 01:57:04 2019: process created with pid: 14268
-Wed Jan 23 01:57:04 2019: image path name: <C:\cygwin64\bin\g++.exe>
-Wed Jan 23 01:57:04 2019: command line: <"C:\cygwin64\bin\g++.exe">
-Wed Jan 23 01:57:04 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:04 2019: isWow64: 0
-Wed Jan 23 01:57:04 2019: env0: <PATH=C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Perl\site\bin;C:\Perl\bin;C:\Program Files (x86)\MiKTeX 2.8\miktex\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;D:\FING\TSI2\plataforma\apache-maven-3.5.0\bin;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenSSH-Win64;C:\Program Files\nodejs;C:\WINDOWS\System32\OpenSSH;D:\FING\2018-02\Actividad Integradora\sonar-scanner-3.2.0.1227-windows\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\PostgreSQL\11\bin;C:\Program Files\dotnet;C:\Ruby24-x64\bin;C:\Users\Gabriel\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\Gabriel\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Users\Gabriel\.dotnet\tools>
-Wed Jan 23 01:57:04 2019: env1: <SYSTEMDRIVE=C:>
-Wed Jan 23 01:57:04 2019: env2: <SYSTEMROOT=C:\WINDOWS>
-Wed Jan 23 01:57:04 2019: env3: <WINDIR=C:\WINDOWS>
-Wed Jan 23 01:57:04 2019: process with pid 14632 exit with code: 0 (0x0)
-Wed Jan 23 01:57:04 2019: process created with pid: 12828
-Wed Jan 23 01:57:04 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
-Wed Jan 23 01:57:04 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
-Wed Jan 23 01:57:04 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:04 2019: isWow64: 0
-Wed Jan 23 01:57:04 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 12828
-Wed Jan 23 01:57:06 2019: process with pid 12828 exit with code: 0 (0x0)
-Wed Jan 23 01:57:06 2019: process created with pid: 12952
-Wed Jan 23 01:57:06 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
-Wed Jan 23 01:57:06 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
-Wed Jan 23 01:57:06 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:06 2019: isWow64: 0
-Wed Jan 23 01:57:06 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 12952
-Wed Jan 23 01:57:06 2019: process with pid 12952 exit with code: 0 (0x0)
-Wed Jan 23 01:57:06 2019: process with pid 14268 exit with code: 0 (0x0)
-Wed Jan 23 01:57:06 2019: process created with pid: 10824
-Wed Jan 23 01:57:06 2019: image path name: <C:\cygwin64\bin\make.exe>
-Wed Jan 23 01:57:06 2019: command line: <make clean all>
-Wed Jan 23 01:57:06 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:06 2019: isWow64: 0
-Wed Jan 23 01:57:06 2019: skipping process C:\cygwin64\bin\make.exe with pid: 10824
-Wed Jan 23 01:57:06 2019: process created with pid: 10408
-Wed Jan 23 01:57:06 2019: image path name: <C:\cygwin64\bin\g++.exe>
-Wed Jan 23 01:57:06 2019: command line: <"C:\cygwin64\bin\g++.exe">
-Wed Jan 23 01:57:06 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:06 2019: isWow64: 0
-Wed Jan 23 01:57:06 2019: env0: <PATH=C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Perl\site\bin;C:\Perl\bin;C:\Program Files (x86)\MiKTeX 2.8\miktex\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;D:\FING\TSI2\plataforma\apache-maven-3.5.0\bin;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenSSH-Win64;C:\Program Files\nodejs;C:\WINDOWS\System32\OpenSSH;D:\FING\2018-02\Actividad Integradora\sonar-scanner-3.2.0.1227-windows\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\PostgreSQL\11\bin;C:\Program Files\dotnet;C:\Ruby24-x64\bin;C:\Users\Gabriel\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\Gabriel\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Users\Gabriel\.dotnet\tools>
-Wed Jan 23 01:57:06 2019: env1: <SYSTEMDRIVE=C:>
-Wed Jan 23 01:57:06 2019: env2: <SYSTEMROOT=C:\WINDOWS>
-Wed Jan 23 01:57:06 2019: env3: <WINDIR=C:\WINDOWS>
-Wed Jan 23 01:57:06 2019: process with pid 10824 exit with code: 0 (0x0)
-Wed Jan 23 01:57:06 2019: process created with pid: 13428
-Wed Jan 23 01:57:06 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\collect2.exe>
-Wed Jan 23 01:57:06 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\collect2.exe">
-Wed Jan 23 01:57:06 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:06 2019: isWow64: 0
-Wed Jan 23 01:57:06 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\collect2.exe with pid: 13428
-Wed Jan 23 01:57:07 2019: process created with pid: 11008
-Wed Jan 23 01:57:07 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\ld.exe>
-Wed Jan 23 01:57:07 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\ld.exe">
-Wed Jan 23 01:57:07 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
-Wed Jan 23 01:57:07 2019: isWow64: 0
-Wed Jan 23 01:57:07 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\ld.exe with pid: 11008
-Wed Jan 23 01:57:09 2019: process with pid 11008 exit with code: 0 (0x0)
-Wed Jan 23 01:57:09 2019: process with pid 13428 exit with code: 0 (0x0)
-Wed Jan 23 01:57:09 2019: process with pid 10408 exit with code: 0 (0x0)
-Wed Jan 23 01:57:09 2019: process with pid 11068 exit with code: 0 (0x0)
-Wed Jan 23 01:57:09 2019: finalizing json file
+Wed Jan 23 02:21:48 2019: env0: <PATH=C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Perl\site\bin;C:\Perl\bin;C:\Program Files (x86)\MiKTeX 2.8\miktex\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;D:\FING\TSI2\plataforma\apache-maven-3.5.0\bin;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenSSH-Win64;C:\Program Files\nodejs;C:\WINDOWS\System32\OpenSSH;D:\FING\2018-02\Actividad Integradora\sonar-scanner-3.2.0.1227-windows\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\PostgreSQL\11\bin;C:\Program Files\dotnet;C:\Ruby24-x64\bin;C:\Users\Gabriel\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\Gabriel\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Users\Gabriel\.dotnet\tools>
+Wed Jan 23 02:21:48 2019: env1: <SYSTEMDRIVE=C:>
+Wed Jan 23 02:21:48 2019: env2: <SYSTEMROOT=C:\WINDOWS>
+Wed Jan 23 02:21:48 2019: env3: <WINDIR=C:\WINDOWS>
+Wed Jan 23 02:21:48 2019: process with pid 10380 exit with code: 0 (0x0)
+Wed Jan 23 02:21:48 2019: process created with pid: 2976
+Wed Jan 23 02:21:48 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
+Wed Jan 23 02:21:48 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
+Wed Jan 23 02:21:48 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:48 2019: isWow64: 0
+Wed Jan 23 02:21:48 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 2976
+Wed Jan 23 02:21:49 2019: process with pid 2976 exit with code: 0 (0x0)
+Wed Jan 23 02:21:49 2019: process created with pid: 15004
+Wed Jan 23 02:21:49 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
+Wed Jan 23 02:21:49 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
+Wed Jan 23 02:21:49 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:49 2019: isWow64: 0
+Wed Jan 23 02:21:49 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 15004
+Wed Jan 23 02:21:49 2019: process with pid 15004 exit with code: 0 (0x0)
+Wed Jan 23 02:21:49 2019: process created with pid: 2588
+Wed Jan 23 02:21:49 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
+Wed Jan 23 02:21:49 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
+Wed Jan 23 02:21:49 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:49 2019: isWow64: 0
+Wed Jan 23 02:21:49 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 2588
+Wed Jan 23 02:21:51 2019: process with pid 2588 exit with code: 0 (0x0)
+Wed Jan 23 02:21:51 2019: process created with pid: 2180
+Wed Jan 23 02:21:51 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
+Wed Jan 23 02:21:51 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
+Wed Jan 23 02:21:51 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:51 2019: isWow64: 0
+Wed Jan 23 02:21:51 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 2180
+Wed Jan 23 02:21:52 2019: process with pid 2180 exit with code: 0 (0x0)
+Wed Jan 23 02:21:52 2019: process created with pid: 11476
+Wed Jan 23 02:21:52 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
+Wed Jan 23 02:21:52 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
+Wed Jan 23 02:21:52 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:52 2019: isWow64: 0
+Wed Jan 23 02:21:52 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 11476
+Wed Jan 23 02:21:53 2019: process with pid 11476 exit with code: 0 (0x0)
+Wed Jan 23 02:21:53 2019: process created with pid: 7872
+Wed Jan 23 02:21:54 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
+Wed Jan 23 02:21:54 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
+Wed Jan 23 02:21:54 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:54 2019: isWow64: 0
+Wed Jan 23 02:21:54 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 7872
+Wed Jan 23 02:21:54 2019: process with pid 7872 exit with code: 0 (0x0)
+Wed Jan 23 02:21:54 2019: process created with pid: 14288
+Wed Jan 23 02:21:54 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
+Wed Jan 23 02:21:54 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
+Wed Jan 23 02:21:54 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:54 2019: isWow64: 0
+Wed Jan 23 02:21:54 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 14288
+Wed Jan 23 02:21:55 2019: process with pid 14288 exit with code: 0 (0x0)
+Wed Jan 23 02:21:55 2019: process created with pid: 8096
+Wed Jan 23 02:21:55 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
+Wed Jan 23 02:21:55 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
+Wed Jan 23 02:21:55 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:55 2019: isWow64: 0
+Wed Jan 23 02:21:55 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 8096
+Wed Jan 23 02:21:55 2019: process with pid 8096 exit with code: 0 (0x0)
+Wed Jan 23 02:21:55 2019: process created with pid: 10612
+Wed Jan 23 02:21:55 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
+Wed Jan 23 02:21:55 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
+Wed Jan 23 02:21:55 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:55 2019: isWow64: 0
+Wed Jan 23 02:21:55 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 10612
+Wed Jan 23 02:21:56 2019: process with pid 10612 exit with code: 0 (0x0)
+Wed Jan 23 02:21:56 2019: process created with pid: 14012
+Wed Jan 23 02:21:56 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
+Wed Jan 23 02:21:56 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
+Wed Jan 23 02:21:56 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:56 2019: isWow64: 0
+Wed Jan 23 02:21:56 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 14012
+Wed Jan 23 02:21:57 2019: process with pid 14012 exit with code: 0 (0x0)
+Wed Jan 23 02:21:58 2019: process created with pid: 1552
+Wed Jan 23 02:21:58 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
+Wed Jan 23 02:21:58 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
+Wed Jan 23 02:21:58 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:21:58 2019: isWow64: 0
+Wed Jan 23 02:21:58 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 1552
+Wed Jan 23 02:22:00 2019: process with pid 1552 exit with code: 0 (0x0)
+Wed Jan 23 02:22:00 2019: process created with pid: 9388
+Wed Jan 23 02:22:00 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
+Wed Jan 23 02:22:00 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
+Wed Jan 23 02:22:00 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:00 2019: isWow64: 0
+Wed Jan 23 02:22:00 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 9388
+Wed Jan 23 02:22:00 2019: process with pid 9388 exit with code: 0 (0x0)
+Wed Jan 23 02:22:01 2019: process created with pid: 7608
+Wed Jan 23 02:22:01 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
+Wed Jan 23 02:22:01 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
+Wed Jan 23 02:22:01 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:01 2019: isWow64: 0
+Wed Jan 23 02:22:01 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 7608
+Wed Jan 23 02:22:02 2019: process with pid 7608 exit with code: 0 (0x0)
+Wed Jan 23 02:22:02 2019: process created with pid: 13984
+Wed Jan 23 02:22:02 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
+Wed Jan 23 02:22:02 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
+Wed Jan 23 02:22:02 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:02 2019: isWow64: 0
+Wed Jan 23 02:22:02 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 13984
+Wed Jan 23 02:22:02 2019: process with pid 13984 exit with code: 0 (0x0)
+Wed Jan 23 02:22:02 2019: process with pid 13292 exit with code: 0 (0x0)
+Wed Jan 23 02:22:02 2019: process created with pid: 2528
+Wed Jan 23 02:22:02 2019: image path name: <C:\cygwin64\bin\make.exe>
+Wed Jan 23 02:22:02 2019: command line: <make clean all>
+Wed Jan 23 02:22:02 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:02 2019: isWow64: 0
+Wed Jan 23 02:22:02 2019: skipping process C:\cygwin64\bin\make.exe with pid: 2528
+Wed Jan 23 02:22:03 2019: process created with pid: 13788
+Wed Jan 23 02:22:03 2019: image path name: <C:\cygwin64\bin\g++.exe>
+Wed Jan 23 02:22:03 2019: command line: <"C:\cygwin64\bin\g++.exe">
+Wed Jan 23 02:22:03 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:03 2019: isWow64: 0
+Wed Jan 23 02:22:03 2019: env0: <PATH=C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Perl\site\bin;C:\Perl\bin;C:\Program Files (x86)\MiKTeX 2.8\miktex\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;D:\FING\TSI2\plataforma\apache-maven-3.5.0\bin;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenSSH-Win64;C:\Program Files\nodejs;C:\WINDOWS\System32\OpenSSH;D:\FING\2018-02\Actividad Integradora\sonar-scanner-3.2.0.1227-windows\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\PostgreSQL\11\bin;C:\Program Files\dotnet;C:\Ruby24-x64\bin;C:\Users\Gabriel\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\Gabriel\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Users\Gabriel\.dotnet\tools>
+Wed Jan 23 02:22:03 2019: env1: <SYSTEMDRIVE=C:>
+Wed Jan 23 02:22:03 2019: env2: <SYSTEMROOT=C:\WINDOWS>
+Wed Jan 23 02:22:03 2019: env3: <WINDIR=C:\WINDOWS>
+Wed Jan 23 02:22:03 2019: process with pid 2528 exit with code: 0 (0x0)
+Wed Jan 23 02:22:03 2019: process created with pid: 13768
+Wed Jan 23 02:22:03 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe>
+Wed Jan 23 02:22:03 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe">
+Wed Jan 23 02:22:03 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:03 2019: isWow64: 0
+Wed Jan 23 02:22:03 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\cc1plus.exe with pid: 13768
+Wed Jan 23 02:22:04 2019: process with pid 13768 exit with code: 0 (0x0)
+Wed Jan 23 02:22:04 2019: process created with pid: 14616
+Wed Jan 23 02:22:04 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe>
+Wed Jan 23 02:22:04 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe">
+Wed Jan 23 02:22:04 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:04 2019: isWow64: 0
+Wed Jan 23 02:22:04 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\as.exe with pid: 14616
+Wed Jan 23 02:22:04 2019: process with pid 14616 exit with code: 0 (0x0)
+Wed Jan 23 02:22:04 2019: process with pid 13788 exit with code: 0 (0x0)
+Wed Jan 23 02:22:04 2019: process created with pid: 15284
+Wed Jan 23 02:22:04 2019: image path name: <C:\cygwin64\bin\make.exe>
+Wed Jan 23 02:22:04 2019: command line: <make clean all>
+Wed Jan 23 02:22:04 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:04 2019: isWow64: 0
+Wed Jan 23 02:22:04 2019: skipping process C:\cygwin64\bin\make.exe with pid: 15284
+Wed Jan 23 02:22:04 2019: process created with pid: 12320
+Wed Jan 23 02:22:04 2019: image path name: <C:\cygwin64\bin\g++.exe>
+Wed Jan 23 02:22:04 2019: command line: <"C:\cygwin64\bin\g++.exe">
+Wed Jan 23 02:22:04 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:04 2019: isWow64: 0
+Wed Jan 23 02:22:04 2019: env0: <PATH=C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Perl\site\bin;C:\Perl\bin;C:\Program Files (x86)\MiKTeX 2.8\miktex\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;D:\FING\TSI2\plataforma\apache-maven-3.5.0\bin;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenSSH-Win64;C:\Program Files\nodejs;C:\WINDOWS\System32\OpenSSH;D:\FING\2018-02\Actividad Integradora\sonar-scanner-3.2.0.1227-windows\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\PostgreSQL\11\bin;C:\Program Files\dotnet;C:\Ruby24-x64\bin;C:\Users\Gabriel\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\Gabriel\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Users\Gabriel\.dotnet\tools>
+Wed Jan 23 02:22:04 2019: env1: <SYSTEMDRIVE=C:>
+Wed Jan 23 02:22:04 2019: env2: <SYSTEMROOT=C:\WINDOWS>
+Wed Jan 23 02:22:04 2019: env3: <WINDIR=C:\WINDOWS>
+Wed Jan 23 02:22:04 2019: process with pid 15284 exit with code: 0 (0x0)
+Wed Jan 23 02:22:04 2019: process created with pid: 13196
+Wed Jan 23 02:22:04 2019: image path name: <C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\collect2.exe>
+Wed Jan 23 02:22:04 2019: command line: <"C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\collect2.exe">
+Wed Jan 23 02:22:04 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:05 2019: isWow64: 0
+Wed Jan 23 02:22:05 2019: skipping process C:\cygwin64\lib\gcc\x86_64-pc-cygwin\7.4.0\collect2.exe with pid: 13196
+Wed Jan 23 02:22:05 2019: process created with pid: 12396
+Wed Jan 23 02:22:05 2019: image path name: <C:\cygwin64\usr\x86_64-pc-cygwin\bin\ld.exe>
+Wed Jan 23 02:22:05 2019: command line: <"C:\cygwin64\usr\x86_64-pc-cygwin\bin\ld.exe">
+Wed Jan 23 02:22:05 2019: working directory: <C:\Users\Gabriel\Desktop\GitPrueba\CodigoEjercicio8\>
+Wed Jan 23 02:22:05 2019: isWow64: 0
+Wed Jan 23 02:22:05 2019: skipping process C:\cygwin64\usr\x86_64-pc-cygwin\bin\ld.exe with pid: 12396
+Wed Jan 23 02:22:06 2019: process with pid 12396 exit with code: 0 (0x0)
+Wed Jan 23 02:22:06 2019: process with pid 13196 exit with code: 0 (0x0)
+Wed Jan 23 02:22:06 2019: process with pid 12320 exit with code: 0 (0x0)
+Wed Jan 23 02:22:06 2019: process with pid 9224 exit with code: 0 (0x0)
+Wed Jan 23 02:22:06 2019: finalizing json file
