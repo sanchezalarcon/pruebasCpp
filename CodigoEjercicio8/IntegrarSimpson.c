@@ -129,9 +129,8 @@ float IntegrarSimpson::Calcular(float xi, float xf, float dof){
 }
 
 float IntegrarSimpson::CalcularX(float po, float dof){
-    float x =2;
-	x =1;
-	;
+    float x =1;
+	typedef int local_Type;
     float d =0.5;
     bool UltimoSignoPositivo = true;
     float pc =Calcular(0, x, dof);
